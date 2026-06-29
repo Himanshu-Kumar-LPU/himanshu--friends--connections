@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "profileImage": "/images/friends-images/himanshu.jpg",
+    "bannerImage": "/images/banner-images/himanshu.jpg",
+    "name": "Himanshu Kumar",
+    "phone": "9334094269",
+    "email": "kumarhimanshu995573@gmail.com",
+    "state": "Bihar",
+    "city": "Nawada",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/4MB4NACX7OF7C1",
+      "linkedin": "https://www.linkedin.com/in/himanshu-kumar-4b87ab320/",
+      "instagram": "https://www.instagram.com/himanshu_singh_chauhan_7.7.6/",
+      "facebook": "https://www.facebook.com/profile.php?id=100089869014867"
+    }
+  },
+  {
+    "id": 2,
+    "profileImage": "/images/friends-images/raja.jpg",
+    "bannerImage": "/images/banner-images/raja.jpg",
+    "name": "Rajajay Kumar",
+    "phone": "8084071126",
+    "email": "rajajayKumar956@gmali.com",
+    "state": "Bihar",
+    "city": "Nawada",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/WOVTMBL6TSX5O1",
+      "linkedin": "",
+      "instagram": "https://www.instagram.com/rajajay_chauhan/",
+      "facebook": "https://www.facebook.com/rsjsjay.kumar"
+    }
+  },
+  {
+    "id": 3,
+    "profileImage": "/images/friends-images/abhishek.jpg",
+    "bannerImage": "/images/banner-images/abhishek.jpg",
+    "name": "Abhishek Jha",
+    "phone": "9871055814",
+    "email": "Jha.abhi2908@gmail.com",
+    "state": "Bihar",
+    "city": "Madhubani",
+    "socialLinks": {
+      "whatsapp": "",
+      "linkedin": "https://www.linkedin.com/in/abhishek-kumar-jha-422b03320/",
+      "instagram": "https://www.instagram.com/abhi_jha29/a",
+      "facebook": ""
+    }
+  },
+  {
+    "id": 4,
+    "profileImage": "/images/friends-images/ayush.jpg",
+    "bannerImage": "/images/banner-images/ayush.jpg",
+    "name": "Ayush Pandey",
+    "phone": "6200934545",
+    "email": "ayuahpandey0784@gmail.com",
+    "state": "Bihar",
+    "city": "Nawada",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/IHUZ5IM3NJTOJ1",
+      "linkedin": "https://www.linkedin.com/in/ayush-pandey06/",
+      "instagram": "https://www.instagram.com/ayushpandey8171/",
+      "facebook": ""
+    }
+  },
+  {
+    "id": 5,
+    "profileImage": "/images/friends-images/rahul.jpg",
+    "bannerImage": "/images/banner-images/rahul.jpg",
+    "name": "Rahul Chaudhary",
+    "phone": "9229985120",
+    "email": "rajakkailash473@gmail.com",
+    "state": "Bihar",
+    "city": "Lakhisarai",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/35LOPKTNSSZOK1",
+      "linkedin": "https://www.linkedin.com/in/rahul-chaudhary-12a389399/",
+      "instagram": "https://www.instagram.com/roy.rahul05__/",
+      "facebook": ""
+    }
+  },
+  {
+    "id": 6,
+    "profileImage": "/images/friends-images/ritik.jpg",
+    "bannerImage": "/images/banner-images/ritik.jpg",
+    "name": "Ritik Giri",
+    "phone": "XXXXXXXXXX",
+    "email": "No email...",
+    "state": "Bihar",
+    "city": "?????",
+    "socialLinks": {
+      "whatsapp": "",
+      "linkedin": "https://www.linkedin.com/in/ritik-giri-55b192247/",
+      "instagram": "https://www.instagram.com/ritikgiri868/",
+      "facebook": "https://www.facebook.com/ritik.giri.18062533"
+    }
+  },
+  {
+    "id": 7,
+    "profileImage": "/images/friends-images/mantu.jpg",
+    "bannerImage": "/images/banner-images/mantu.jpg",
+    "name": "Mantu Kumar",
+    "phone": "6352196180",
+    "email": "mk9682905@gmail.com",
+    "state": "Bihar",
+    "city": "Nawada",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/FN45C522WWZQD1",
+      "linkedin": "",
+      "instagram": "https://www.instagram.com/mantukuar96/",
+      "facebook": "https://www.facebook.com/mantu.kumar.604505"
+    }
+  },
+  {
+    "id": 8,
+    "profileImage": "/images/friends-images/ajay.jpg",
+    "bannerImage": "/images/banner-images/ajay.jpg",
+    "name": "Ajay Chaurasia",
+    "phone": "XXXXXXXXXX",
+    "email": "No email...",
+    "state": "Uttar Pradesh",
+    "city": "?????",
+    "socialLinks": {
+      "whatsapp": "",
+      "linkedin": "https://www.linkedin.com/in/ajay-chaurasia-12312628b/",
+      "instagram": "https://www.instagram.com/mr.ajay_707/",
+      "facebook": ""
+    }
+  },
+  {
+    "id": 9,
+    "profileImage": "/images/friends-images/aditya.jpg",
+    "bannerImage": "/images/banner-images/aditya.jpg",
+    "name": "Aditya Dixit",
+    "phone": "XXXXXXXXXX",
+    "email": "No email...",
+    "state": "Bihar",
+    "city": "?????",
+    "socialLinks": {
+      "whatsapp": "",
+      "linkedin": "https://www.linkedin.com/in/aaditya-dixit/",
+      "instagram": "https://www.instagram.com/aaditya_dixit18/",
+      "facebook": ""
+    }
+  },
+  {
+    "id": 10,
+    "profileImage": "/images/friends-images/nirmal.jpg",
+    "bannerImage": "/images/banner-images/nirmal.jpg",
+    "name": "Nirmal Raj",
+    "phone": "8292810421",
+    "email": "No email...",
+    "state": "Bihar",
+    "city": "Gaya",
+    "socialLinks": {
+      "whatsapp": "",
+      "linkedin": "",
+      "instagram": "https://www.instagram.com/chauhannirmal795/",
+      "facebook": "https://www.facebook.com/normalraj.nirmal.9"
+    }
+  }
+]
