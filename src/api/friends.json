@@ -158,5 +158,21 @@
       "instagram": "https://www.instagram.com/chauhannirmal795/",
       "facebook": "https://www.facebook.com/normalraj.nirmal.9"
     }
+  },
+  {
+    "id": 11,
+    "profileImage": "/images/friends-images/abhishekraj.jpg",
+    "bannerImage": "/images/banner-images/abhishekraj.jpg",
+    "name": "Abhishek Raj",
+    "phone": "7903056518",
+    "email": "ry0766509@gmail.com",
+    "state": "Bihar",
+    "city": "Patna",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/qr/DZNJEDHM76TUO1",
+      "linkedin": "https://www.linkedin.com/in/abhishek-raj-b60188333/",
+      "instagram": "https://www.instagram.com/abhi_rj.4/",
+      "facebook": ""
+    }
   }
 ]
